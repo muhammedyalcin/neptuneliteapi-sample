@@ -17,12 +17,8 @@ const router = Router.of({
                 Route.of({
                     path: "/pages/page1",
                     build: buildExtender({ pageName: "page1", headerBarStyle: { visible: true } })
-                }),
-                Route.of({
-                    path: "/pages/page2",
-                    build: buildExtender({ pageName: "page2", headerBarStyle: { visible: true } })
-                }),
-            ]
+                })
+            ] 
         })
     ]
 });
