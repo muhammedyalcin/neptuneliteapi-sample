@@ -1,25 +1,15 @@
+<h3 align="center">
+  <img height=75 src="https://github.com/smartface/sample-clienteling/blob/master/temp/smartface_logo.png" alt="smartface Logo" />
+</h3>
 
-     ____                       _    __                      _       
-    / ___| _ __ ___   __ _ _ __| |_ / _| __ _  ___ ___      (_) ___  
-    \___ \| '_ ` _ \ / _` | '__| __| |_ / _` |/ __/ _ \     | |/ _ \ 
-     ___) | | | | | | (_| | |  | |_|  _| (_| | (_|  __/  _  | | (_) |
-    |____/|_| |_| |_|\__,_|_|   \__|_|  \__,_|\___\___| (_) |_|\___/ 
-    -----------------------------------------------------------------
+# NeptuneLiteAPI Sample from Smartface
+[![Twitter: @Smartface_io](https://img.shields.io/badge/contact-@Smartface_io-blue.svg?style=flat)](https://twitter.com/smartface_io)
+[![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/smartface/sample-clienteling/blob/master/LICENSE.md)
+<div style="display:flex;">
+  <img src="temp/sc1.jpg" width="250">
+</div>
 
-
-Hey fellow developer, thank you for using Smartface Cloud!
-
-Developing native apps for iOS and Android is as easy as a few lines of
-JavaScript code.
-
-Start coding right away and to view your app instantly on a real device,
-just click the Run on Device button and follow the instructions.
-
-You can also update your native apps remotely and manage their lifecycle
-end-to-end, fully in the cloud.
-
-Welcome to the world of mobility!
-Smartface Team.
+Hey there, this repository sample usage of [sf-plugin-neptuneliteapi](https://github.com/smartface/sf-plugin-neptuneliteapi)
 
 ## Support & Documentation & Useful Links
 
