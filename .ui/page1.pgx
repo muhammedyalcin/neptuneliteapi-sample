@@ -96,7 +96,7 @@
 			"className": ".sf-label",
 			"id": "69b1-64ee-6ae6-bacf",
 			"props": {
-				"autoWidth": "50.00",
+				"autoWidth": 50.59027777777778,
 				"children": [],
 				"name": "asciiLbl",
 				"parent": "ac9e-a02e-5d8b-8a3a",
@@ -104,7 +104,7 @@
 			},
 			"type": "Label",
 			"userProps": {
-				"autoWidth": "50.00",
+				"autoWidth": 50.59027777777778,
 				"text": "ascii: "
 			}
 		},
@@ -130,7 +130,7 @@
 			"className": ".sf-label",
 			"id": "d2ff-e074-1a00-f0ee",
 			"props": {
-				"autoWidth": "81.35",
+				"autoWidth": 81.94444444444444,
 				"children": [],
 				"name": "extCodeLbl",
 				"parent": "ac9e-a02e-5d8b-8a3a",
@@ -138,7 +138,7 @@
 			},
 			"type": "Label",
 			"userProps": {
-				"autoWidth": "81.35",
+				"autoWidth": 81.94444444444444,
 				"marginLeft": 10,
 				"text": "extCode: "
 			}
@@ -184,6 +184,7 @@
 					"family": "SFProText",
 					"style": "Semibold"
 				},
+				"height": 40,
 				"marginLeft": 5,
 				"text": "NO IMAGE",
 				"usePageVariable": true
@@ -193,7 +194,7 @@
 			"className": ".sf-button",
 			"id": "c0c6-5de8-b8a6-5107",
 			"props": {
-				"autoWidth": "126.83",
+				"autoWidth": 126.18055555555556,
 				"children": [],
 				"name": "asyncImageBtn",
 				"parent": "ac9e-a02e-5d8b-8a3a",
@@ -202,7 +203,7 @@
 			},
 			"type": "Button",
 			"userProps": {
-				"autoWidth": "126.83",
+				"autoWidth": 126.18055555555556,
 				"backgroundColor": "rgba( 155, 155, 155, 0.9 )",
 				"font": {
 					"size": 14,
@@ -211,6 +212,7 @@
 					"family": "SFProText",
 					"style": "Semibold"
 				},
+				"height": 40,
 				"marginLeft": 5,
 				"text": "NO ASYNC IMAGE",
 				"usePageVariable": true
@@ -220,7 +222,7 @@
 			"className": ".sf-button",
 			"id": "2512-be4e-5542-fe8f",
 			"props": {
-				"autoWidth": "154.02",
+				"autoWidth": 153.36805555555554,
 				"children": [],
 				"name": "imageTresholdBtn",
 				"parent": "ac9e-a02e-5d8b-8a3a",
@@ -229,7 +231,7 @@
 			},
 			"type": "Button",
 			"userProps": {
-				"autoWidth": "154.02",
+				"autoWidth": 153.36805555555554,
 				"backgroundColor": "rgba( 155, 155, 155, 0.9 )",
 				"font": {
 					"size": 14,
@@ -238,6 +240,7 @@
 					"family": "SFProText",
 					"style": "Semibold"
 				},
+				"height": 40,
 				"marginLeft": 5,
 				"text": "NO IMAGE TRESHOLD",
 				"usePageVariable": true
@@ -276,7 +279,7 @@
 			"className": ".sf-label",
 			"id": "275d-5bc1-1f51-d381",
 			"props": {
-				"autoWidth": "107.68",
+				"autoWidth": 108.29861111111111,
 				"children": [],
 				"name": "wordSpaceLbl",
 				"parent": "6683-d03f-4e60-7bbd",
@@ -284,7 +287,7 @@
 			},
 			"type": "Label",
 			"userProps": {
-				"autoWidth": "107.68",
+				"autoWidth": 108.29861111111111,
 				"text": "word space: ",
 				"width": null
 			}
@@ -297,14 +300,14 @@
 				"children": [],
 				"name": "wordSpaceTxt",
 				"parent": "6683-d03f-4e60-7bbd",
-				"text": "  0",
+				"text": "0",
 				"usePageVariable": true
 			},
 			"type": "TextBox",
 			"userProps": {
 				"autoWidth": "20.77",
 				"borderWidth": null,
-				"text": "  0",
+				"text": "0",
 				"usePageVariable": true,
 				"width": 50
 			}
@@ -313,7 +316,7 @@
 			"className": ".sf-label",
 			"id": "6b14-0b4e-1437-831e",
 			"props": {
-				"autoWidth": "95.85",
+				"autoWidth": 96.42361111111111,
 				"children": [],
 				"name": "lineSpaceLbl",
 				"parent": "6683-d03f-4e60-7bbd",
@@ -321,7 +324,7 @@
 			},
 			"type": "Label",
 			"userProps": {
-				"autoWidth": "95.85",
+				"autoWidth": 96.42361111111111,
 				"text": "line space: "
 			}
 		},
@@ -333,14 +336,14 @@
 				"children": [],
 				"name": "lineSpaceTxt",
 				"parent": "6683-d03f-4e60-7bbd",
-				"text": "  0",
+				"text": "0",
 				"usePageVariable": true
 			},
 			"type": "TextBox",
 			"userProps": {
 				"autoWidth": "20.77",
 				"borderWidth": null,
-				"text": "  0",
+				"text": "0",
 				"usePageVariable": true,
 				"width": 50
 			}
@@ -349,7 +352,7 @@
 			"className": ".sf-label",
 			"id": "b79e-feb8-319e-3553",
 			"props": {
-				"autoWidth": "97.46",
+				"autoWidth": 98.05555555555556,
 				"children": [],
 				"name": "leftIndentLbl",
 				"parent": "6683-d03f-4e60-7bbd",
@@ -357,7 +360,7 @@
 			},
 			"type": "Label",
 			"userProps": {
-				"autoWidth": "97.46",
+				"autoWidth": 98.05555555555556,
 				"text": "left indent: "
 			}
 		},
@@ -385,7 +388,7 @@
 			"className": ".sf-label",
 			"id": "4c40-382d-1f48-5690",
 			"props": {
-				"autoWidth": "74.90",
+				"autoWidth": 75.48611111111111,
 				"children": [],
 				"name": "setGrayLbl",
 				"parent": "6683-d03f-4e60-7bbd",
@@ -393,7 +396,7 @@
 			},
 			"type": "Label",
 			"userProps": {
-				"autoWidth": "74.90",
+				"autoWidth": 75.48611111111111,
 				"text": "set gray:"
 			}
 		},
@@ -463,16 +466,18 @@
 					"family": "SFProText",
 					"style": "Semibold"
 				},
+				"height": 40,
 				"marginLeft": 5,
 				"text": "NORMAL WIDTH",
-				"usePageVariable": true
+				"usePageVariable": true,
+				"width": null
 			}
 		},
 		{
 			"className": ".sf-button",
 			"id": "eac2-1051-af75-3561",
 			"props": {
-				"autoWidth": "138.24",
+				"autoWidth": 121.98932926829269,
 				"children": [],
 				"name": "heightBtn",
 				"parent": "6f30-9a68-484c-a168",
@@ -481,8 +486,16 @@
 			},
 			"type": "Button",
 			"userProps": {
-				"autoWidth": "138.24",
+				"autoWidth": 121.98932926829269,
 				"backgroundColor": "rgba( 155, 155, 155, 1 )",
+				"font": {
+					"size": 14,
+					"bold": true,
+					"italic": false,
+					"family": "SFProText",
+					"style": "Semibold"
+				},
+				"height": 40,
 				"marginLeft": 15,
 				"text": "NORMAL HEIGHT",
 				"usePageVariable": true
@@ -492,7 +505,7 @@
 			"className": ".sf-button",
 			"id": "f8dd-dad1-3f31-2305",
 			"props": {
-				"autoWidth": "125.33",
+				"autoWidth": 110.67073170731707,
 				"children": [],
 				"name": "printBtn",
 				"parent": "6f30-9a68-484c-a168",
@@ -501,10 +514,18 @@
 			},
 			"type": "Button",
 			"userProps": {
-				"autoWidth": "125.33",
+				"autoWidth": 110.67073170731707,
 				"backgroundColor": "rgba( 155, 155, 155, 1 )",
+				"font": {
+					"size": 14,
+					"bold": true,
+					"italic": false,
+					"family": "SFProText",
+					"style": "Semibold"
+				},
+				"height": 40,
 				"marginLeft": 5,
-				"marginTop": 10,
+				"marginTop": null,
 				"text": "NORMAL PRINT",
 				"usePageVariable": true
 			}
@@ -539,7 +560,7 @@
 			"className": ".sf-label",
 			"id": "0b20-d63a-f4ff-2216",
 			"props": {
-				"autoWidth": "84.38",
+				"autoWidth": 83.02083333333333,
 				"children": [],
 				"name": "printStepLbl",
 				"parent": "f34a-8b6b-27ea-bcc2",
@@ -547,7 +568,7 @@
 			},
 			"type": "Label",
 			"userProps": {
-				"autoWidth": "84.38",
+				"autoWidth": 83.02083333333333,
 				"text": "print step"
 			}
 		},
@@ -555,7 +576,7 @@
 			"className": ".sf-textBox",
 			"id": "659d-5923-24a6-5bcd",
 			"props": {
-				"autoWidth": "38.11",
+				"autoWidth": 38.71527777777778,
 				"children": [],
 				"name": "printStepTxt",
 				"parent": "f34a-8b6b-27ea-bcc2",
@@ -564,7 +585,7 @@
 			},
 			"type": "TextBox",
 			"userProps": {
-				"autoWidth": "38.11",
+				"autoWidth": 38.71527777777778,
 				"borderWidth": 0,
 				"text": "  150",
 				"usePageVariable": true
@@ -574,7 +595,7 @@
 			"className": ".sf-label",
 			"id": "95fb-9bf9-4fc4-c4a5",
 			"props": {
-				"autoWidth": "103.64",
+				"autoWidth": 104.23611111111111,
 				"children": [],
 				"name": "printStringLbl",
 				"parent": "f34a-8b6b-27ea-bcc2",
@@ -582,7 +603,7 @@
 			},
 			"type": "Label",
 			"userProps": {
-				"autoWidth": "103.64",
+				"autoWidth": 104.23611111111111,
 				"text": "  print string"
 			}
 		},
@@ -590,7 +611,7 @@
 			"className": ".sf-textBox",
 			"id": "9e1c-3b11-3a8c-fc9a",
 			"props": {
-				"autoWidth": "235.63",
+				"autoWidth": 236.21527777777777,
 				"children": [],
 				"name": "printStringTxt",
 				"parent": "f34a-8b6b-27ea-bcc2",
@@ -599,7 +620,7 @@
 			},
 			"type": "TextBox",
 			"userProps": {
-				"autoWidth": "235.63",
+				"autoWidth": 236.21527777777777,
 				"borderWidth": 0,
 				"marginLeft": 5,
 				"text": "TEST123TEST%#$^&@#$TEST",
@@ -621,7 +642,7 @@
 			"type": "FlexLayout",
 			"userProps": {
 				"flexProps": {
-					"flexGrow": 1,
+					"flexGrow": 0.5,
 					"flexDirection": "ROW"
 				},
 				"height": null,
@@ -633,7 +654,7 @@
 			"className": ".sf-button",
 			"id": "80ff-b2cf-7311-4c24",
 			"props": {
-				"autoWidth": "88.70",
+				"autoWidth": 89.30555555555556,
 				"children": [],
 				"name": "getStatusBtn",
 				"parent": "73fa-0209-ad2f-1007",
@@ -642,7 +663,7 @@
 			},
 			"type": "Button",
 			"userProps": {
-				"autoWidth": "88.70",
+				"autoWidth": 89.30555555555556,
 				"backgroundColor": "rgba( 155, 155, 155, 1 )",
 				"font": {
 					"size": 14,
@@ -651,6 +672,7 @@
 					"family": "SFProText",
 					"style": "Semibold"
 				},
+				"height": 35,
 				"text": "GET STATUS",
 				"usePageVariable": true
 			}
@@ -677,6 +699,7 @@
 					"family": "SFProText",
 					"style": "Semibold"
 				},
+				"height": 35,
 				"marginLeft": 15,
 				"text": "GETDOTLINE",
 				"usePageVariable": true
